@@ -1,5 +1,5 @@
 git init
 git add .
-git commit -m "first commit"
+git commit -m "Name of the commit"
 3 lines of code from github
 tocken generated - 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
